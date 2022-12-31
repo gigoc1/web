@@ -1,3 +1,4 @@
 "my last name is Kang" 
 "my last name is Kang" 
 "my name is Michael" 
+"second commit in mybranch1" 
